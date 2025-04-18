@@ -6,7 +6,7 @@ const Projects = () => {
       <div className="grid md:grid-cols-2 gap-6">
         <div className="border p-4 rounded shadow">
           <h3 className="font-bold text-xl">Mein Portfolio</h3>
-          <p>React + Tailwind, gehostet auf GitHub Pages</p>
+          <p>React mit TS + Tailwind, gehostet auf GitHub Pages</p>
           <a href="#" className="text-blue-500 mt-2 inline-block">Live ansehen</a>
         </div>
       </div>
